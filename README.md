@@ -1,12 +1,12 @@
 # Drawing-Geometry
-Illustrated how objects are added to a view while rendering UI in O-O Paradism
+Illustrates how objects are added to a view while rendering UI in O-O Paradism
 
 # Author Aswin Raj Kharel
 # Copyright
 
 Inspiration:
 
-    Teaching O-O programming concept to my iOS student. Explains how Shapes like rectangle, circle, etc are added to the Superview and are rendered in realtime in the screen.
+    Teaching O-O programming concept to my iOS student. Explains how Shapes like rectangle, circle, etc are added to the Superview and are rendered in realtime on the screen.
 
 Shapes Implemented:
 
